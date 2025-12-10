@@ -70,6 +70,7 @@ Calling `stop` reverts everything back to normal.
 
 
 
+
 ###### Parameters
 
 *   `context` (`Object`) — Context object
