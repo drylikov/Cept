@@ -67,6 +67,7 @@ From now on, when the original method would be called, `callback` is used
 instead.
 Calling `stop` reverts everything back to normal.
 
+
 ###### Parameters
 
 *   `context` (`Object`) — Context object
