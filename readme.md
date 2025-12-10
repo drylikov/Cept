@@ -12,6 +12,7 @@
 Intercept method calls.
 
 
+
 ## Install
 
 This package is ESM only: Node 12+ is needed to use it and it must be `import`ed
