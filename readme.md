@@ -73,6 +73,7 @@ Calling `stop` reverts everything back to normal.
 
 ###### Parameters
 
+
 *   `context` (`Object`) — Context object
 *   `key` (`string`) — Field where the original method lives
 *   `callback` (`Function`) - Interceptor
